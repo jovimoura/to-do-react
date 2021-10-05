@@ -2,6 +2,9 @@
 
 Lista de a fazeres feita com ReactJS, TypeScript e bibliotecas de estilos.
 
+## Confira o projeto😃:
+https://jovimoura.github.io/toDoList/
+
 ## Imagens💻
 
 <img src="./src/imgReadme/toDoList.png">
