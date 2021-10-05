@@ -1,9 +1,10 @@
 # To Do List🚀
 
-Lista de a fazeres feita com ReactJS, TypeScript e bibliotecas de estilos.
+Esse é um repositório que deixei para armazenar os códigos que fiz para fazer o toDo.
+
 
 ## Confira o projeto😃:
-https://jovimoura.github.io/toDoList/
+https://jovimoura.github.io/todo/
 
 ## Imagens💻
 
