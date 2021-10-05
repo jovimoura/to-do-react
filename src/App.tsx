@@ -3,7 +3,6 @@ import * as C from './App.styles' //Importando tudo como C de app.styles
 import { Item } from './types/item';
 import { ListItem } from './components/ListItem';
 import { AddArea } from './components/AddArea';
-import { ListFormat } from 'typescript';
 
 const App = () => {
   const [list, setList] = useState<Item[]>([
@@ -39,7 +38,11 @@ const App = () => {
         <AddArea onEnter={handleAddTask} />
 
         {list.map((item,index)=>(
-          <ListItem key={index} item={item} /> 
+          <ListItem 
+            key={index}
+            item={item}
+            onChange={handleTaskChange}
+          /> 
         ))}
       </C.Area>
     </C.Container>

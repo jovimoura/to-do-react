@@ -9,7 +9,7 @@ export const AddArea = ({ onEnter }: Props) => {
     const [inputText, setInputText] = useState(''); // cria um state
 
     const handleKeyUp = (e:KeyboardEvent)=>{ //evento do teclado
-        if(e.code == 'Enter' && inputText !== '') {
+        if(e.code === 'Enter' && inputText !== '') {
             onEnter(inputText);
             setInputText('');
         }
