@@ -1,10 +1,19 @@
 # To Do List🚀
 
-Esse é um repositório que deixei para armazenar os códigos que fiz para fazer o toDo.
+Trata-se de uma lista de tarefas.
 
 
 ## Confira o projeto😃:
-https://jovimoura.github.io/todo/
+
+```
+https://to-do-react-rho.vercel.app/
+```
+
+## Git Clone:
+
+```
+git clone https://github.com/jovimoura/to-do-react
+```
 
 ## Imagens💻
 
@@ -16,9 +25,7 @@ https://jovimoura.github.io/todo/
 ## Tecnologias utilizadas🦉
 <ul>
     <li>React</li>
-    <li>Type Script</li>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>TypeScript</li>
 </ul>
 
 ## Autor😎
