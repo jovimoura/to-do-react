@@ -1,3 +1,11 @@
+# ATENÇÃO!
+
+O projeto foi recentemente refatorado e o repositorio se encontra em:
+
+```
+https://github.com/jovimoura/to-do-next
+```
+
 # To Do List🚀
 
 Trata-se de uma lista de tarefas.
